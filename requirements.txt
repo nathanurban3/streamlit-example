@@ -1,4 +1,3 @@
-altair
-pandas
+geopandas
 streamlit
-arcpy
+numpy
